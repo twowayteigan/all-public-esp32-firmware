@@ -24,3 +24,5 @@ https://web.esphome.io/ (web flasher)
 https://esptool.spacehuhn.com/ (web flasher)
 
 https://espressif.github.io/esptool-js/ (web flasher)
+
+https://espterminator.com (web flasher with multiple firmwares)
